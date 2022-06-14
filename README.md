@@ -14,6 +14,7 @@
 
 ### 5. Torus
 <img width="300" alt="스크린샷 2022-06-14 오후 10 08 21" src="https://user-images.githubusercontent.com/46489446/173584614-d81f34fc-9a9d-47c0-941f-f16730c20cc6.png">
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/46489446/173593056-86d0ab46-b4d7-4671-9dda-d82d97ffb148.png">
 
 ### 6. Torus Knot
 <img width="300" alt="스크린샷 2022-06-14 오후 10 13 18" src="https://user-images.githubusercontent.com/46489446/173585620-da7e91a7-4847-4924-94e0-25f454cba07c.png">
